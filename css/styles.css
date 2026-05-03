@@ -1,0 +1,37 @@
+.css{
+background-color: chocolate;
+border: 20px solid rosybrown;
+margin: 20;
+padding: 10px;
+
+}
+
+#blog{
+    background-color: brown;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+.jaima-abdullah{
+    background-color: chartreuse;
+    border: 15px solid cornflowerblue;
+    margin: 20px ;
+    padding: 20px;
+}
+
+#muniat{
+    background-color: deeppink;
+    padding: 15px;
+    margin: 10px;
+    
+}

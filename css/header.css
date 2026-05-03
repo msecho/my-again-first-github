@@ -1,0 +1,30 @@
+#bulu{
+    background-color: aqua;
+    margin: 20px;
+    border: 20px solid royalblue;
+    margin:10px ;
+    box-shadow: 10px 10px 10px
+
+}
+
+.bulu{
+ background-color: aqua;
+    margin: 20px;
+    border: 20px solid royalblue;
+    margin:10px ;
+    box-shadow: 10px 10px 10px
+
+}
+
+.abdullah{
+    background-color: cornflowerblue;
+    height: 1500px;
+   background-image: url(jaima.jpeg);
+   background-repeat: no-repeat;
+   /* background-size: cover; */
+   background-position: center;
+
+
+
+
+}
